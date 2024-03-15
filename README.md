@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Yadav003
-- 👀 I’m currently working in Railway Reservation System
-- 🌱 I’m currently learning CSS and JavaScript
+- 👀 I’m currently working on TRAVEL website
+- 🌱 I’m currently learning Node JS
 - 📫 How to reach me www.linkedin.com/in/shubhamyadav007
 
 <!---
