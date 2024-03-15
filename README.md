@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham-Yadav003
-- 👀 I’m currently working on TRAVEL website
+- 👀 I’m currently working on TRAVEL and TOURISM website
 - 🌱 I’m currently learning Node JS
 - 📫 How to reach me www.linkedin.com/in/shubhamyadav007
 
