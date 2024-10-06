@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Yadav003
-- 👀 I’m currently working on TRAVEL and TOURISM website
-- 🌱 I’m currently learning Node JS , React JS , Express and Mongodb
+- 👀 I’m currently Working on  a MERN project
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me www.linkedin.com/in/shubhamyadav007
 
 <!---
