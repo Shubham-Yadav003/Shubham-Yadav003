@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **E-Learning Platform**
 
-- 🌱 I’m currently learning **ReactJS and PHP**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 📫 How to reach me **shubhamy03v@gmail.com**
 
