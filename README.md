@@ -2,14 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Yadav</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
-
-<div style="display: flex; justify-content: center;">
-    <div style="flex: 1;">
-        <!-- Optional Left Side Content -->
-    </div>
-    <div style="flex: 1;">
-        <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-    </div>
+<div align="center">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 </div>
 
 <p align="left"> 
@@ -22,21 +16,16 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [E-Learning Platform](https://edublaze.netlify.app/)
+---
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio9089.netlify.app/)
-
-- 💬 Ask me about **Full Stack Web Development (MERN / SQL / Cloud)**
-
-- 📫 How to reach me **shubhamy03v@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LKo6wUILatK_-yz4rqv4sjzDX3Rcimpf/view?usp=drivesdk)
-
+- 🔭 I’m currently working on [E-Learning Platform](https://edublaze.netlify.app/)  
+- 🌱 I’m currently learning **Docker and Kubernetes**  
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio9089.netlify.app/)  
+- 💬 Ask me about **Full Stack Web Development (MERN / SQL / Cloud)**  
+- 📫 How to reach me **shubhamy03v@gmail.com**  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LKo6wUILatK_-yz4rqv4sjzDX3Rcimpf/view?usp=drivesdk)  
 - ⚡ Fun fact **I think I am quite Lazy 😅**
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
