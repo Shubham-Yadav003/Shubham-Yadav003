@@ -1,22 +1,12 @@
 <img align="center" alt="MasterHead" width="1000" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Yadav</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
-<div align="center">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-</div>
+<h2 align="center" style="color:cyan">Passionate MERN Stack Developer</h2>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shubham-yadav003&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-yadav003" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubham-yadav003" alt="shubham-yadav003" />
-  </a> 
-</p>
-
----
+<table>
+  <tr>
+    <!-- Left Side: Text -->
+    <td width="60%" valign="top">
 
 - 🔭 I’m currently working on [E-Learning Platform](https://edublaze.netlify.app/)  
 - 🌱 I’m currently learning **Docker and Kubernetes**  
@@ -26,6 +16,14 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LKo6wUILatK_-yz4rqv4sjzDX3Rcimpf/view?usp=drivesdk)  
 - ⚡ Fun fact **I think I am quite Lazy 😅**
 
+    </td>
+    
+    <!-- Right Side: GIF -->
+    <td width="40%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="coding"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
