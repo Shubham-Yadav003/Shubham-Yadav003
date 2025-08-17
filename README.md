@@ -24,7 +24,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/shubhamyadav007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamyadav007" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhamyadav__03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamyadav__03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham_000007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_000007" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/Shubham0007" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/codolio-logo.svg" alt="shubham_000007" height="30" width="40" />
+</a>
 <a href="https://auth.geeksforgeeks.org/user/shubhamyadav007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamyadav007" height="30" width="40" /></a>
 </p>
 
